@@ -21,6 +21,6 @@ Tech Stacks I've used so far:
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&&logoColor=white&style=plastic)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic)
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricalope&show_icons=true&theme=transparent)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ricalope)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
