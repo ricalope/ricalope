@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Ricardo, I'm here to code and chew bubblegum, but I'm all out of gum!
+### Hi there 👋 My name is Ricardo!
 
 if you would like to reach me: [Email](gepetto911@yahoo.com)
 
@@ -7,7 +7,7 @@ Here are some links to projects I have worked on:
 >[Snack Overflow](https://snack-overflow.onrender.com/) which utilizes a Python Flask backend and a Javascript React frontend.                
 >[Inscribe](https://inscribe.onrender.com) which has been inpired by Evernote, and uses a Python Flask backend and Javascript React frontend.
 
-
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 Tech Stacks I've used so far:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=plastic)
@@ -22,4 +22,4 @@ Tech Stacks I've used so far:
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricalope&show_icons=true&theme=transparent)
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
